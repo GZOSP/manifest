@@ -38,6 +38,7 @@
   <project path="external/e2fsprogs" name="external_e2fsprogs" groups="pdk" remote="gzosp" />
   <project path="external/ebtables" name="external_ebtables" groups="pdk" remote="gzosp" />
   <project path="external/exfat" name="external_exfat" remote="gzosp" />
+  <project path="external/f2fs-tools" name="external_f2fs-tools" groups="pdk" remote="gzosp" />
   <project path="external/fuse" name="external_fuse" remote="gzosp" />
   <project path="external/htop" name="external_htop" remote="gzosp" />
   <project path="external/json-c" name="external_json-c" remote="gzosp" />
