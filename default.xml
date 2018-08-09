@@ -5,4 +5,7 @@
   <include name="removals.xml" />
   <include name="gzosp.xml" />
 
+  <!-- CAF manifest -->
+  <include name="caf_default.xml" />
+
 </manifest>
