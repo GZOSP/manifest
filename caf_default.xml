@@ -17,14 +17,14 @@
   <project path="hardware/qcom/display-caf/msm8916" name="hardware_qcom_display" remote="gzosp90" revision="9.0-caf-8916" />
   <project path="hardware/qcom/display-caf/msm8974" name="hardware_qcom_display" remote="gzosp90" revision="9.0-caf-8974" />
   <project path="hardware/qcom/display-caf/msm8994" name="hardware_qcom_display" remote="gzosp90" revision="9.0-caf-8994" />
-  <project path="hardware/qcom/display-caf/msm8996" name="hardware_qcom_display" remote="gzosp90" revision="9.0-caf-8996" />
+  <project path="hardware/qcom/display-caf/msm8996" name="hardware_qcom_display" remote="gzosp" revision="10.0-caf-8996" />
   <project path="hardware/qcom/display-caf/msm8998" name="hardware_qcom_display" remote="gzosp90" revision="9.0-caf-8998" />
   <project path="hardware/qcom/media-caf/sdm845" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-845" />
   <project path="hardware/qcom/media-caf/sm8150" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-8150" />
   <project path="hardware/qcom/media-caf/msm8916" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-8916" />
   <project path="hardware/qcom/media-caf/msm8974" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-8974" />
   <project path="hardware/qcom/media-caf/msm8994" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-8994" />
-  <project path="hardware/qcom/media-caf/msm8996" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-8996" />
+  <project path="hardware/qcom/media-caf/msm8996" name="hardware_qcom_media" remote="gzosp" revision="10.0-caf-8996" />
   <project path="hardware/qcom/media-caf/msm8998" name="hardware_qcom_media" remote="gzosp90" revision="9.0-caf-8998" />
 
   <!-- bt -->
