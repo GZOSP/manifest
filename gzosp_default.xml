@@ -37,6 +37,7 @@
 
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
+  <project path="hardware/libhardware" name="hardware_libhardware" groups="pdk" remote="gzosp" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="gzosp" />
   <project path="frameworks/base" name="frameworks_base" remote="gzosp" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="gzosp" />
