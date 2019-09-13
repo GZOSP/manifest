@@ -39,7 +39,7 @@
   <project path="hardware/qcom/wlan-caf" name="hardware_qcom_wlan" remote="gzosp90" revision="9.0-caf" />
 
   <!-- Vendors -->
-  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="gzosp90" revision="9.0" />
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="gzosp" revision="10.0" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="gzosp90" revision="9.0" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="gzosp90" revision="9.0" />
   <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="gzosp90" revision="9.0" />
