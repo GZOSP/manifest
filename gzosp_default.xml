@@ -5,7 +5,7 @@
            fetch="https://github.com" />
 
   <remote  name="gzosp"
-           fetch="https://github.com/GZOSP-Staging" />
+           fetch="https://github.com/GZOSP" />
 
   <default revision="10.0"
            remote="gzosp"
@@ -24,7 +24,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="build_soong" groups="pdk,tradefed" >
+  <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="gzosp" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
