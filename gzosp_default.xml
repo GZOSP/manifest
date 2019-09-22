@@ -60,5 +60,8 @@
   <project path="system/core" name="system_core" groups="pdk" remote="gzosp" />
   <project path="vendor/gzosp" name="vendor_gzosp" remote="gzosp" />
 
+  <!-- Prebuilts -->
+  <project path="prebuilts/tools-gzosp" name="prebuilts_tools-gzosp" remote="gzosp" clone-depth="1" />
+
 </manifest>
 
