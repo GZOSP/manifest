@@ -62,6 +62,7 @@
 
   <!-- Prebuilts -->
   <project path="prebuilts/tools-gzosp" name="prebuilts_tools-gzosp" remote="gzosp" clone-depth="1" />
+  <project path="prebuilts/openssl" name="prebuilts_openssl" remote="gzosp" clone-depth="1" />
 
 </manifest>
 
