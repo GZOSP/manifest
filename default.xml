@@ -435,7 +435,6 @@
   <project path="hardware/qcom/sdm845/media" name="platform/hardware/qcom/sdm845/media" groups="qcom_sdm845" remote="aosp" />
   <project path="hardware/qcom/sdm845/thermal" name="platform/hardware/qcom/sdm845/thermal" groups="generic_fs,qcom_sdm845" remote="aosp" />
   <project path="hardware/qcom/sdm845/vr" name="platform/hardware/qcom/sdm845/vr" groups="generic_fs,qcom_sdm845" remote="aosp" />
-  <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" remote="aosp" />
   <project path="hardware/ti/am57x" name="platform/hardware/ti/am57x" groups="pdk" remote="aosp" />
   <project path="kernel/build" name="kernel/build" remote="aosp" />
   <project path="kernel/configs" name="kernel/configs" groups="vts,pdk" remote="aosp" />
