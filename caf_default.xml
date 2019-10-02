@@ -40,6 +40,7 @@
 
   <!-- Device -->
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="gzosp" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="gzosp" revision="10.0-legacy-um" />
 
   <!-- Ril -->
   <project path="hardware/ril-caf" name="hardware_ril" groups="pdk" remote="gzosp" revision="10.0-caf" />
