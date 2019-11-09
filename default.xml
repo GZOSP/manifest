@@ -412,7 +412,6 @@
   <project path="hardware/google/easel" name="platform/hardware/google/easel" groups="pdk,easel" remote="aosp" />
   <project path="hardware/google/interfaces" name="platform/hardware/google/interfaces" groups="pdk" remote="aosp" />
   <project path="hardware/google/pixel" name="platform/hardware/google/pixel" groups="pixel" remote="aosp" />
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" groups="pdk" remote="aosp" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense,pdk" remote="aosp" />
   <project path="hardware/nxp/secure_element" name="platform/hardware/nxp/secure_element" groups="pdk" remote="aosp" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960,pdk-qcom" remote="aosp" />
