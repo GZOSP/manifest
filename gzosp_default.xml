@@ -27,6 +27,7 @@
   <project path="build/soong" name="build_soong" groups="pdk,tradefed" remote="gzosp" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
+  <project path="build/blueprint" name="build_blueprint" groups="pdk,tradefed" remote="gzosp" />
   </project>
 
   <project path="hardware/qcom/audio" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="gzosp" />
