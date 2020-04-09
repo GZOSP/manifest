@@ -82,6 +82,7 @@
   <project path="vendor/gzosp" name="vendor_gzosp" remote="gzosp" />
 
   <!-- Prebuilts -->
+  <project path="prebuilts/r8" name="prebuilts_r8" groups="pdk" clone-depth="1" remote="gzosp" />
   <project path="prebuilts/tools-gzosp" name="prebuilts_tools-gzosp" remote="gzosp" clone-depth="1" />
   <project path="prebuilts/openssl" name="prebuilts_openssl" remote="gzosp" clone-depth="1" />
 
