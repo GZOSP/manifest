@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="gzosp"
-           fetch="https://github.com/GZOSP"
+           fetch="https://github.com/GZOSP-RUST"
            revision="11.0" />
 
   <project path="manifest" name="manifest" remote="gzosp" />
