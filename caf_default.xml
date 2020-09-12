@@ -46,7 +46,7 @@
   <!-- Vendors -->
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="gzosp10" revision="10.0" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="gzosp10" revision="10.0" />
-  <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="gzosp10" revision="10.0" />
+  <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="gzosp" />
   <project path="vendor/qcom/opensource/interfaces" name="vendor_qcom_opensource_interfaces" remote="gzosp10" revision="10.0" >
     <copyfile dest="vendor/qcom/opensource/Android.bp" src="os_pickup.bp"/>
   </project>
