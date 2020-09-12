@@ -47,6 +47,7 @@
   <project path="system/core" name="system_core" groups="pdk" remote="gzosp" />
   <project path="system/extras" name="system_extras" groups="pdk" remote="gzosp" />
   <project path="system/keymaster" name="system_keymaster" groups="pdk" remote="gzosp" />
+  <project path="system/libufdt" name="system_libufdt" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
   <project path="vendor/gzosp" name="vendor_gzosp" remote="gzosp" />
   
