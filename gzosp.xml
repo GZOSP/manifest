@@ -23,6 +23,7 @@
   <project path="art" name="art" groups="pdk" remote="gzosp" />
   <project path="bionic" name="bionic" remote="gzosp" />
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
+  <project path="device/gzosp/sepolicy" name="device_gzosp_sepolicy" remote="gzosp" />
   <project path="external/selinux" name="external_selinux" groups="pdk" remote="gzosp" />
   <project path="frameworks/base" name="frameworks_base" remote="gzosp" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="gzosp" />
