@@ -46,6 +46,7 @@
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="gzosp" />
+  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="gzosp" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
