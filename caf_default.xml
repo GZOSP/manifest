@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="gzosp10"
-           fetch="https://github.com/GZOSP" />
-
 
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" groups="qcom,pdk-qcom" remote="gzosp" >
     <!-- add guard for AOSP hardware/qcom dir -->
@@ -47,13 +44,13 @@
 
   <!-- bt -->
   <project path="hardware/qcom/bt" name="hardware_qcom_bt" groups="qcom" remote="gzosp" />
-  <project path="hardware/qcom-caf/bt" name="hardware_qcom_bt" groups="qcom" remote="gzosp10" revision="10.0-caf" />
+  <project path="hardware/qcom-caf/bt" name="hardware_qcom_bt" groups="qcom" remote="gzosp" revision="11.0-caf" />
 
   <!-- Device  -->
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy" remote="gzosp" revision="11.0-legacy-um" />
 
   <!-- Ril -->
-  <project path="hardware/ril-caf" name="hardware_ril" groups="pdk" remote="gzosp10" revision="10.0-caf" />
+  <project path="hardware/ril-caf" name="hardware_ril" groups="pdk" remote="gzosp" revision="10.0-caf" />
 
   <!-- Wlan -->
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="gzosp" />
