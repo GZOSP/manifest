@@ -68,6 +68,7 @@
   <project path="system/extras" name="system_extras" groups="pdk" remote="gzosp" />
   <project path="system/keymaster" name="system_keymaster" groups="pdk" remote="gzosp" />
   <project path="system/libufdt" name="system_libufdt" groups="pdk" remote="gzosp" />
+  <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="gzosp" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
   <project path="vendor/gzosp" name="vendor_gzosp" remote="gzosp" />
