@@ -65,7 +65,6 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
-  <project path="system/chre" name="system_chre" groups="pdk" remote="gzosp" />
   <project path="system/core" name="system_core" groups="pdk" remote="gzosp" />
   <project path="system/extras" name="system_extras" groups="pdk" remote="gzosp" />
   <project path="system/keymaster" name="system_keymaster" groups="pdk" remote="gzosp" />
